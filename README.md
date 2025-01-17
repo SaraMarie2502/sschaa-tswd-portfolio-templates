@@ -12,7 +12,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi! I am Sara an exchange student at Carnegie Mellon University at Heinz College studying Management and Informationsystems. I am pursuing a Masters in Management at the University of Mannheim in Germany. I really like data. I am fascinated by the opportunities data provides us with to learn and optimize. I like visualizations, they are a tool to make data usable for a greater audience.  So I guess you can say that I like data visualizations!
 
-![Just Me](funny-dog-unsplash.jpg)
+![Just Me](Me.jpeg)
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
