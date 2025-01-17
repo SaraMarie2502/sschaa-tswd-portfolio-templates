@@ -25,6 +25,8 @@ All the things - obviously. The following three aspects are the key aspects I am
 
 # In Class Examples
 Pictures that I have taken that represent a data visualization, or could be loosely interpreted / inspired by a data visualization:
+1. Colored bar chart
+2. Pie charts
 <p float="left">
 <img src="horizontal bar chart.jpeg" width="200"/>
 <img src="pie charts.jpeg" width="200"/>
