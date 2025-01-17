@@ -3,7 +3,7 @@
 # Sara's TSWD-portfolio
 Web URL: 
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://saramarie2502.github.io/sschaa-tswd-portfolio-templates/)
+- Web page URL: https://saramarie2502.github.io/sschaa-tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
