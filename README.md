@@ -11,20 +11,14 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I am Sara an exchange student at Carnegie Mellon University at Heinz College studying Management and Informationsystems. I am pursuing a Masters in Management at the University of Mannheim in Germany. I really like data. I am fascinated by the opportunities data provides us with to learn and optimize. I like visualizations, they are a tool to make data usable for a greater audience.  So I guess you can say that I like data visualizations!
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. How to effectivelly use data to tell a story to convince problem to take action.
+2. How to sketch graphs and charts
+3. Learning how to create good charts through the analysis of others charts.
 
 # Portfolio
 
@@ -73,7 +67,7 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 ### Adding images
 
-Here's an example of how to add an image to my portfolio.  
+A few examples of data charts in the real wotld that I took while travelling. 
 
 ![funny dog picture](funny-dog-unsplash.jpg)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
