@@ -24,7 +24,10 @@ All the things - obviously. The following three aspects are the key aspects I am
 # Portfolio
 
 # In Class Examples
-Placeholder: in-class demos and other work
+Pictures that I have taken that represent a data visualization, or could be loosely interpreted / inspired by a data visualization:
+
+<img src="horizontal bar chart.jpeg" width="200"/>
+<img src="pie charts.jpeg" width="200"/>
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
