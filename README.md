@@ -15,7 +15,7 @@ Hi! I am Sara an exchange student at Carnegie Mellon University at Heinz College
 <img src="Me.jpeg" width="200"/>
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+All the things - obviously. The following three aspects are the key aspects I am interested in:
 
 1. How to effectivelly use data to tell a story to convince problem to take action.
 2. How to sketch graphs and charts
@@ -23,8 +23,8 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+# In Class Examples
+Placeholder: in-class demos and other work
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
