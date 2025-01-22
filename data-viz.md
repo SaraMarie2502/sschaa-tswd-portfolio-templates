@@ -9,7 +9,6 @@ Pictures that I have taken that represent a data visualization, or could be loos
 <img src="pie charts.jpeg" width="200"/>
 </p>
 
-[[/images/path/to/image.ext|ALT TEXT]]
+![ Alt Text](https://datawrapper.dwcdn.net/yfbKa/1/)
 
-https://datawrapper.dwcdn.net/yfbKa/1/
 
