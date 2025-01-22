@@ -10,4 +10,4 @@ Pictures that I have taken that represent a data visualization, or could be loos
 </p>
 
 
-<img src="Data chart W2.png" width="200"/>
+<img src="Data chart W2.png" width="800"/>
