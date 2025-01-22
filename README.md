@@ -1,4 +1,4 @@
-| [home page](README.md)| [data viz examples](data-viz.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
+| [home page](README.md)| [data viz examples](data-viz.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Sara's TSWD-portfolio
 Web URL: 
