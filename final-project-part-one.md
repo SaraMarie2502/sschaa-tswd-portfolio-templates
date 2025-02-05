@@ -4,7 +4,7 @@
 ### High Level Summary
 With this project, I aim to educate Students in the US about CO2 emissions and the current situation of the US in comparison to other countries. I hope to inspire others to take actions for example by inspiring them to talk to others and educate them to make them aware of the current status. The aim is to present the data in such a way that it becomes clear how urgent the issue of climate change is, but also what opportunities arise from it and how we can deal with this matter and what actions other countries and organizations implement and what influence they have. I want to make the subject approachable for everyone. I want to keep it simple and want to try to keep it objective based on available data.
  
-Text here...
+
 ### Project Structure
 The folllowing describes my planned project structure. This is also visually shown in the sketch attached below, that shows the result of my inclass exercise for the development of the story.
 
@@ -84,7 +84,6 @@ Those datasets are valuable but they cannot be directly imported to Tableau as t
 I am planning to utilize shorthand and Tableau Desktop, as well as Tableau Prep. Additionally I will reformat the CSV file with Python scripts if necessary. Since I have not worked with ArcGIS story maps, I will not use it. Additionally I would like to use stock pictures from my envato account. It is a subscription based platform through which I can download pictures which I can license for projects.
 
 ## References
-ClimateWatch
-EDGAR
-OECD
-
+ClimateWatch, https://www.climatewatchdata.org/, Accessed on 04/02/2025
+EDGAR, CO2 emissions of all world countries, 2022, https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table, Accessed on 04/02/2025
+OECD, Pine at a glance, 2024, https://oecd-main.shinyapps.io/pinedatabase/, Accessed on 04/02/2025
