@@ -6,7 +6,7 @@ With this project, I aim to educate Students in the US about CO2 emissions and t
  
 
 ### Project Structure
-The folllowing describes my planned project structure. This is also visually shown in the sketch attached below, that shows the result of my inclass exercise for the development of the story.
+This section describes my planned project structure. This is also visually shown in the sketch attached below, that shows the result of my inclass exercise for the development of the story.
 
 #### Introduction 
 In this part, I want to provide context about where we are currently, showing pictures of the recent wildfires in California and pictures from the tornados Florida experienced last year. Since I want to work with comparisons between the US and Germany, I also aim to provide pictures from floods in Germany. Another idea is to use newspaper headlines from the past year to remind people of previous climate change related events, according to scientists. I aim to make the subject relatable and approachable for all students, no matter what background they have. The aim is here to really show the impact of severe weather events and changes in the climate.
