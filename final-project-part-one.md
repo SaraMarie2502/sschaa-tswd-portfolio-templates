@@ -5,7 +5,6 @@
 ### High Level Summary
 With this project, I aim to educate Students in the US about CO2 emissions and the current situation of the US in comparison to other countries. I hope to inspire others to take actions for example by inspiring them to talk to others and educate them to make them aware of the current status. The aim is to present the data in such a way that it becomes clear how urgent the issue of climate change is, but also what opportunities arise from it and how we can deal with this matter and what actions other countries and organizations implement and what influence they have. I want to make the subject approachable for everyone. I want to keep it simple and want to try to keep it objective based on available data.
  
-
 ### Project Structure
 This section describes my planned project structure. This is also visually shown in the sketch attached below, that shows the result of my inclass exercise for the development of the story.
 
@@ -25,7 +24,7 @@ I want people to feel inspired and educated about CO2 emissions. Additionally, t
 <img src="Storyline.jpeg" width="600"/>
 
 ## Initial sketches
-I have created one sketch with some ideas I have. Additionally, I have already played with Tableau a little bit and came up with the following charts.
+I have created one sketch with some ideas for the storyline. Additionally, I have already played with Tableau a little bit and came up with the following charts.
 
 <img src="Screenshot 2025-02-04 at 22.34.30.png" width="600"/>
 
