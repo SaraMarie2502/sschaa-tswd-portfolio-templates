@@ -69,8 +69,7 @@ Those datasets are valuable but they cannot be directly imported to Tableau as t
 
 # Method and medium
 
-I am planning to use
-Text here...
+I am planning to utilize shorthand and Tableau Desktop, as well as Tableau Prep. Additionally I will reformat the CSV file with Python scripts if necessary. Since I have not worked with ArcGIS story maps, I will not use it. Additionally I would like to use stock pictures from my envato account. It is a subscription based platform through which I can download pictures which I can license for projects.
 
 ## References
 ClimateWatch
