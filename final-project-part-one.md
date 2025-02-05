@@ -2,11 +2,23 @@
 
 # Outline
 ### High Level Summary
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+With this project, I aim to educate Students in the US about CO2 emissions and the current situation of the US in comparison to other countries. I hope to inspire others to take actions for example by inspiring them to talk to others and educate them to make them aware of the current status. The aim is to present the data in such a way that it becomes clear how urgent the issue of climate change is, but also what opportunities arise from it and how we can deal with this matter and what actions other countries and organizations implement and what influence they have. I want to make the subject approachable for everyone. I want to keep it simple and want to try to keep it objective based on available data.
  
 Text here...
 ### Project Structure
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The folllowing describes my planned project structure. This is also visually shown in the sketch attached below, that shows the result of my inclass exercise for the development of the story.
+
+#### Introduction 
+In this part, I want to provide context about where we are currently, showing pictures of the recent wildfires in California and pictures from the tornados Florida experienced last year. Since I want to work with comparisons between the US and Germany, I also aim to provide pictures from floods in Germany. Another idea is to use newspaper headlines from the past year to remind people of previous climate change related events, according to scientists. I aim to make the subject relatable and approachable for all students, no matter what background they have. The aim is here to really show the impact of severe weather events and changes in the climate.
+
+#### Rising Tension
+This part will introduce the audience to some key terms before diving into the data. In this section I will focus on introducing data and showing trends by showing the development of CO2 emission in the US, the World and Germany. I might also show China, as I have received the feedback that some people have heard that China emits so much CO2 emissions that US doesn’t really make a difference. I want to make clear that the US actually makes a difference. Not only that, but I want to highlight current challenges and gaps in actions towards a reduction of CO2 emissions.
+
+#### Climax 
+In this section, I want to show why it is not too late yet and show what other countries are doing to reduce CO2 emissions. The aim is to show with data where there is the biggest opportunity for CO2 emission reductions and what policies could be implemented to reduce emissions.
+
+#### Resolution/Call to action
+I want people to feel inspired and educated about CO2 emissions. Additionally, they should know what role the US plays worldwide. Furthermore, I aim to create a feeling of “we are in this together and what we do matters”. For me, it is very important to not put a shame on anyone or anything, but rather create a vision in how it could like and what could change if more people have knowledge about CO2 emissions and reduce smattering knowledge. I want to show what opportunities there are for the US and want to provide three main takeaways for students of what they could do based on their new knowledge if they would like to.
 
 
 <img src="Storyline.jpeg" width="600"/>
