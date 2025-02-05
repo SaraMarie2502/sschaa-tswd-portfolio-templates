@@ -1,6 +1,7 @@
 | [home page](README.md)| [data viz examples](data-viz.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Outline
+
 ### High Level Summary
 With this project, I aim to educate Students in the US about CO2 emissions and the current situation of the US in comparison to other countries. I hope to inspire others to take actions for example by inspiring them to talk to others and educate them to make them aware of the current status. The aim is to present the data in such a way that it becomes clear how urgent the issue of climate change is, but also what opportunities arise from it and how we can deal with this matter and what actions other countries and organizations implement and what influence they have. I want to make the subject approachable for everyone. I want to keep it simple and want to try to keep it objective based on available data.
  
