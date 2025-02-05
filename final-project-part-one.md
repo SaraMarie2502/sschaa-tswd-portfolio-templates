@@ -25,12 +25,8 @@ I want people to feel inspired and educated about CO2 emissions. Additionally, t
 <img src="Storyline.jpeg" width="600"/>
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
-
-I have already played with Tableau a little bit and came up with the following charts.
-## test
+I have created one sketch with some ideas I have. Additionally, I have already played with Tableau a little bit and came up with the following charts.
+<img src="Screenshot 2025-02-04 at 22.34.30.png" width="600"/>
 
 <div class='tableauPlaceholder' id='viz1738715559841' style='position: relative'><noscript><a href='#'><img alt='Germany vs USA Co2 Emissions ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Co2Emisssions_17387071102370&#47;GermanyvsUSACo2Emissions&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Co2Emisssions_17387071102370&#47;GermanyvsUSACo2Emissions' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Co2Emisssions_17387071102370&#47;GermanyvsUSACo2Emissions&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
  var divElement = document.getElementById('viz1738715559841');
@@ -41,8 +37,6 @@ I have already played with Tableau a little bit and came up with the following c
  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## test
-
 <div class='tableauPlaceholder' id='viz1738707383117' style='position: relative'><noscript><a href='#'><img alt='CO2 Emissions per country 1988-2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J9&#47;J9DRQ83DF&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;J9DRQ83DF' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J9&#47;J9DRQ83DF&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>
  var divElement = document.getElementById('viz1738707383117');
@@ -52,8 +46,6 @@ I have already played with Tableau a little bit and came up with the following c
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-## test
 
 <div class='tableauPlaceholder' id='viz1738707466792' style='position: relative'><noscript><a href='#'><img alt='CO2 Emissions per country 2016-2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Co2Emisssions_17387071102370&#47;Sheet23&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Co2Emisssions_17387071102370&#47;Sheet23' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Co2Emisssions_17387071102370&#47;Sheet23&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
  var divElement = document.getElementById('viz1738707466792');
