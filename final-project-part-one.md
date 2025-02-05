@@ -52,25 +52,28 @@ I have already played with Tableau a little bit and came up with the following c
 </script>
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+I have identified different sources of publicly available data about CO2 emissions, per country, per capita and even origin of CO2 emissions with data ranging from 1988 to 2021. In the following table you can find three data sources that I will be using for this project. The data from climate watch is very useful to understand which country emmitts and has emitted how much CO2 emisssions. This data is very essential for my Analysis especially because I want to show that the US has a big impact when looking at worldwide emisssions. Additionally this data allows me to compare Germany with the US. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The second data source is from the OECD organisation and provides information about policies related to environmental protection. This will be a good addition to the other data sources to understand what countries are currently doing and understand if those policies are effective by comparing the date of the start of a new policiy with the development of CO2 emissions of the countries. 
+
+My third data source (EDGAR, European Comisssion)is very useful to look into specific aspects of CO2 emissions per country e.g. transport, fossil fuels, etc.. It provides information on a country level. This will help to understand where the biggest opportunities are for different countries. I am particulatly interested to analyse this for the US.
+
+Those datasets are valuable but they cannot be directly imported to Tableau as the format does not match with the format tableau requires. For example the data from ClimateWatch was in a table format where the headers are years. For Tableau we need the year to be written in the same row as a data point. Therefore, I have done some adjustments to the structure of the data by using a Python script. During the development of this project I might require more data. Therefore, it is likely that more resources will be required. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Climate watch data |https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=climate-watch&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=&page=1 |Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress|
-|OECD |https://oecd-main.shinyapps.io/pinedatabase/| It is a data dissemination platform of the OECD Policy Instruments for the Environment (PINE) database |
-|      |     |             |
+|Climate watch data |https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=climate-watch&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=&page=1 |"Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress" (ClimateWatch, Accessed 03/02/2025)|
+|OECD |https://oecd-main.shinyapps.io/pinedatabase/| It is a data dissemination platform of the OECD Policy Instruments for the Environment (PINE) database (OECD, Accessed 03/02/2022)|
+|EDGAR - Emissions Database for Global Atmospheric Research |https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table| "EDGARv7.0 launches the community GHG emissions database, changing to IEA CO2 data to harmonise CO2 emission estimates and beginning a process of recognising the essential role of the providers of the underlying international statistics to EDGAR." (EDGAR, Accessed 03/02/2025)             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
+I am planning to use
 Text here...
 
 ## References
-_List any references you used here._
+ClimateWatch
+EDGAR
+OECD
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
