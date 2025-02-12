@@ -85,7 +85,7 @@ Results:
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
-|Can you tell me what you think this is?|             |             |             |
+|Can you tell me what you think this is?|I think this chart shows how hard it is for people to stick to their resolutions. It's inspiring that at least 9% of people manage to achieve success, but it's clear that many struggle early on.|It tells me most people give up quickly. The 43% quitting within the first month doesn't surprise me.|It's surprising to see such high early quit rates, especially the 23% quitting in the first week—that's almost 1 in 4 people.|
 |Is there anything you find surprising or confusing?|Not really| For me it is not completly clear what the story is.|Everything is clear.|
 |Is there anything you would change or do differently?| I would maybe change the X an Y axis, due to the long labels.| I would use colors to set a focus color the bars gray except for the one where to focus should lie.| Maybe adjust story and then set the focus in the chart based on that, as the story from the original website is not that specific.|
 |Do you have an idea for an alternative way to visualize the data?| Not really. | Another way to visualize it could be by drawing a timeline and going from 100% down to the 9% who keep their New Year's Resolution. | It really depends on the story you want to tell. I think the histogramm works well if you want to show at what point how many people keep going with their New Year's Resolution. Otherwise you might want to use a pie chart and color code how many people are successfull in green and the other shares in gray.|
