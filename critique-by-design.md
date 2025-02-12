@@ -17,7 +17,54 @@ _Include link to the original data visualization (or screenshot - make sure to c
 Source: https://insideoutmastery.com/new-years-resolution-statistics/ , Accessed on 10/02/2025
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Positive Aspects of the Graph
+Relevant Title: The title aligns well with the subject matter of the graph.
+    Legend: Includes a clear legend explaining which color represents each category.
+    Scale: A scale is provided, allowing for a rough understanding of the share of each category.
+    Source Link: The graph includes a source link for the data beneath the chart.
+    Color Palette: A pleasing color palette is used, transitioning from dark blue to green, where green represents a successful New Year's resolution.
+
+Critiques and Suggestions
+
+    Chart Type:
+        The stacked bar chart is not an appropriate choice; a regular bar chart would improve readability.
+        The stacked bar chart makes it difficult to compare the sizes of each category.
+
+    Visual Quality:
+        The graph is blurry and should be uploaded with higher resolution.
+
+    Source Link Accessibility:
+        The source link is not clickable, which limits user interaction.
+
+    Color Contrast:
+        The colors for "quit in the first week" and "quit within the first month" are not distinct enough and can be hard to differentiate.
+
+Content and Placement Suggestions
+
+    Chart Placement:
+        The chart should be presented first, with explanatory text following.
+        Ideally, the graph should be self-explanatory so that accompanying text is unnecessary.
+
+    Content Alignment:
+        The article’s purpose is to help readers with New Year’s resolutions and provide actionable insights on achieving them. This goal becomes clear only at the end of the article but should be evident earlier.
+        The graphs focus on challenges (e.g., quitting resolutions early), which aligns with the theme but fails to provide direct solutions or actionable advice.
+
+Purpose and Redirection
+
+    External Links:
+        The article redirects readers to additional content, such as:
+            An article on books for setting and achieving goals.
+            A website promoting a costly planner for tracking goals.
+        These links feel promotional and do not directly help readers achieve their goals within the article itself.
+
+Improvements to Achieve Clarity and Usability
+
+    Add actionable advice or recommendations directly within the article rather than solely redirecting to external resources.
+    Include another data chart type that provides better readability (e.g., regular bar chart).
+    Use more distinct colors for easier visual differentiation.
+    Make the source link clickable for user convenience.
+    Enhance the chart resolution for better visual quality.
+    Reorganize content so that the goal of helping users with resolutions is clear from the beginning.
 
 ## Step three: Sketch a solution
 
@@ -60,5 +107,6 @@ _Include and describe your final solution here. It's also a good idea to summari
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used AI to create out of my observations/critique text I posted in the google form to bullet points.
 
