@@ -45,6 +45,13 @@ Source: Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statisti
 
 ## Step three: Sketch a solution
 
+Original Sketch:
+
+<img src="SketchCritique.png" width="600"/>
+
+In Class Improvements based on Feedback:
+
+
 
 ## Step four: Test the solution
 
