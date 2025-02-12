@@ -85,9 +85,10 @@ Results:
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
-|          |             |             |             |
-|          |             |             |             |
-|          |             |             |             |
+|Can you tell me what you think this is?|             |             |             |
+|Is there anything you find surprising or confusing?|Not really| For me it is not completly clear what the story is.|Everything is clear.|
+|Is there anything you would change or do differently?|             |             |             |
+|Do you have an idea for an alternative way to visualize the data?|             |             |             |
 
 Synthesis: 
 
