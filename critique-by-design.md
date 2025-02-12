@@ -70,10 +70,12 @@ Person 1:
 - Master in Management Arts
 - End 20's
 - Work experience in research
+  
 Person 2: 
 - Master in Management and Information Systems
 - Work experience in Banking
 - End 20's
+
 Person 3:
 - Master in Public and Policy Management
 - Mid 20's
