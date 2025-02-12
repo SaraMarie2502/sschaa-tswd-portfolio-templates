@@ -81,7 +81,7 @@ Person 3:
 - Mid 20's
 - Work experience with customer service, legal research, and administrative skills
 
-Results: 
+#### Results: 
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
@@ -90,17 +90,21 @@ Results:
 |Is there anything you would change or do differently?| I would maybe change the X an Y axis, due to the long labels.| I would use colors to set a focus color the bars gray except for the one where to focus should lie.| Maybe adjust story and then set the focus in the chart based on that, as the story from the original website is not that specific.|
 |Do you have an idea for an alternative way to visualize the data?| Not really. | Another way to visualize it could be by drawing a timeline and going from 100% down to the 9% who keep their New Year's Resolution. | It really depends on the story you want to tell. I think the histogramm works well if you want to show at what point how many people keep going with their New Year's Resolution. Otherwise you might want to use a pie chart and color code how many people are successfull in green and the other shares in gray.|
 
-Synthesis: 
+#### Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+All my intervieweees understood the context of the graph very quickly. The feedback still varied though. They had different ideas, which is very interesting but also showed that there is not one aspect which the all thought needs to changed. Some of the comments make a lot of sense for me and I would like to incorporate them. 
+
+I would like to flip the x and y axis and I would like to set the focus of the story on how few people really succeed and why New Years resolutions are a little over hyped. For that I want to change the title and use colors accordingly. 
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
+
 Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statistics (2024 Updated), https://insideoutmastery.com/new-years-resolution-statistics/ , Accessed on 10/02/2025
 
 ## AI acknowledgements
+
 I used AI to create out of my observations/critique text I posted in the google form to bullet points.
 
