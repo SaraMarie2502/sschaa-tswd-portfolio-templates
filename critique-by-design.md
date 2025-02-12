@@ -12,7 +12,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-<img src="DataVizCritique.png" width="200"/>
+<img src="DataVizCritique.png" width="600"/>
 
 Source: https://insideoutmastery.com/new-years-resolution-statistics/ , Accessed on 10/02/2025
 
