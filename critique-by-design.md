@@ -42,11 +42,11 @@ Source: Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statisti
 
 Original Sketch:
 
-<img src="SketchCritique.png" width="600"/>
+<img src="SketchCritique.png" width="400"/>
 
 In Class Improvements based on Feedback:
 
-<img src="Sketch2.png" width="600"/>
+<img src="Sketch2.png" width="400"/>
 
 ## Step four: Test the solution
 
@@ -95,11 +95,13 @@ I would like to flip the x and y axis and I would like to set the focus of the s
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+<img src="RedesignDataVizCritique.png" width="600"/>
+
 ## References
 
 Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statistics (2024 Updated), https://insideoutmastery.com/new-years-resolution-statistics/ , Accessed on 10/02/2025
 
 ## AI acknowledgements
 
-I used AI to create out of my observations/critique text I posted in the google form to bullet points.
+I used AI to create out of my observations/critique text I posted in the google form to bullet points. It was also used to create the graph as Tableau didn't manage to read the data file as it was a very unorganized PDF file and it was much easier to do with a GenAI tool. 
 
