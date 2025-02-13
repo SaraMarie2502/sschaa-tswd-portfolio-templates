@@ -93,7 +93,7 @@ I would like to flip the x and y axis and I would like to set the focus of the s
 
 Prioritization Matrix
 
-<img src="Sketch2.png" width="400"/>
+<img src="Prio.png" width="400"/>
 
 ## Step five: build the solution
 
