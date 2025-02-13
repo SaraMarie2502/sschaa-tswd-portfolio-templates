@@ -91,15 +91,26 @@ All my intervieweees understood the context of the graph very quickly. The feedb
 
 I would like to flip the x and y axis and I would like to set the focus of the story on how few people really succeed and why New Years resolutions are a little over hyped. For that I want to change the title and use colors accordingly. 
 
+Prioritization Matrix
+
+<img src="Sketch2.png" width="400"/>
+
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+I have used my initial sketches to receive feedback on my idea for an improved version and I have implemented some of the Feedback I have received. I have created the chart with GenAI (ChatGPT), as the data from YouGov was in a PDF file and DataWrapper as well as Tableau could not create my envisioned chart based on the available data set structure. I used the following prompt to create the chart: 
+- Can you create a graph based on the following information? Please create a bar chart (histogram) where the y-axis displays the labels, and the bars start from the x-axis, which shows a percentage scale. Please color-code the bars in pastel red, except for the bar that represents "Achieved Success." 23% quit in the first week. 43% quit in the first month. 17% quit within 2 years. 10% quit or are still pursuing. 9% achieved success. The bar for "Achieved Success" should be colored in pastel green. The title of the chart should be: How successful are New Year's Resolutions, and at what point in time do people quit?
+
+The feedback I have received allowed me to create a much better version of the redesign without getting the feedback. It really helped me. The process seemed quite time intensive initially, but the output is also much better in comparison to directly redesigning it without sketcking and interviews.
 
 <img src="RedesignDataVizCritique.png" width="600"/>
+
+Source: YouGov Survey Results, 2024, https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_-_New_Years_resolutions_2024.pdf , Accessed on 10/02/2025
 
 ## References
 
 Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statistics (2024 Updated), https://insideoutmastery.com/new-years-resolution-statistics/ , Accessed on 10/02/2025
+
+YouGov Survey Results, 2024, https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_-_New_Years_resolutions_2024.pdf , Accessed on 10/02/2025
 
 ## AI acknowledgements
 
