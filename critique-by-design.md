@@ -50,8 +50,6 @@ In Class Improvements based on Feedback:
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
 #### Questions I asked:
 
 - Can you tell me what you think this is?
@@ -87,9 +85,9 @@ Person 3:
 
 #### Synthesis: 
 
-All my intervieweees understood the context of the graph very quickly. The feedback still varied though. They had different ideas, which is very interesting but also showed that there is not one aspect which the all thought needs to changed. Some of the comments make a lot of sense for me and I would like to incorporate them. 
+All my interviewees quickly understood the context of the graph. However, the feedback still varied. They had different ideas, which I found very interesting, but it also showed that there wasn’t one specific aspect they all agreed needed to be changed. Some of the comments make a lot of sense to me, and I would like to incorporate them.
 
-I would like to flip the x and y axis and I would like to set the focus of the story on how few people really succeed and why New Years resolutions are a little over hyped. For that I want to change the title and use colors accordingly. 
+I would like to flip the x and y axes and shift the focus of the story to highlight how few people actually succeed and why New Year's resolutions may be a bit overhyped. To achieve this, I plan to change the title and adjust the colors accordingly.
 
 Prioritization Matrix
 
