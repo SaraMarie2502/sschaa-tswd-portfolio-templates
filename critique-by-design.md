@@ -114,5 +114,5 @@ YouGov Survey Results, 2024, https://ygo-assets-websites-editorial-emea.yougov.n
 
 ## AI acknowledgements
 
-I used AI to create out of my observations/critique text I posted in the google form to bullet points. It was also used to create the graph as Tableau didn't manage to read the data file as it was a very unorganized PDF file and it was much easier to do with a GenAI tool. 
+I used AI to create out of my observations/critique text, I posted in the google form to bullet points. It was also used to create the graph as Tableau didn't manage to read the data file as it was a very unorganized PDF file and it was much easier to do with a GenAI tool. 
 
