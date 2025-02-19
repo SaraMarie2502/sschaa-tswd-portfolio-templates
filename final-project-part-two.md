@@ -5,15 +5,10 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
 >
-Your storyboards (either done as a draft Shorthand story or as an actual storyboard) should be a visual walk-through of the primary elements of your outline, tying in your sketches where appropriate to illustrate how you intend to lead the reader through your experience. 
 
-
-I have further developed my project directly in shorthand. 
-
-Text here!
+I have further developed my project directly in shorthand. As you can see in shorthand my story is much more specific and narrowed down than part 1. I have changed the focus sligthly. While creating the shorthand website I continued to follow my storyline mood chart that we drafted in class going from the Intro part to the current state, opportunities to the solution. The story unfolds as we learned it in class from conflict over context to resolution applying the guideline 6 of the workbook good data viz.
 
 # User research 
-
 
 You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
 
