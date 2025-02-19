@@ -3,16 +3,35 @@
 
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
+>
+Your storyboards (either done as a draft Shorthand story or as an actual storyboard) should be a visual walk-through of the primary elements of your outline, tying in your sketches where appropriate to illustrate how you intend to lead the reader through your experience. 
+
+
+I have further developed my project directly in shorthand. 
 
 Text here!
 
 # User research 
 
+
+You should have also developed a simple user research protocol that describes what you hope to find during your user interviews, including your research questions and the script.  Once your interviews are complete, you should have documented findings that detail what you've learned by showing your early wireframes / storyboards to at least three different individuals.  
+
+Your user research protocol should clearly identify the following: 
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
+When talking about your findings, specific insights and observations, key quotes and other insights are better than broad, sweeping generalizations.  Look across your interviews and note where you have consistent feedback vs. any observations that might be conflicting.  If done well, you should have a clear list of design changes you plan to implement in Part III.  These design changes would reflect things you leaned through the user research process.  Talk about how you plan on using this feedback to improve your project. 
+
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Initially I really struggeled to narrow down the subject and focus on just one target audience. Therefore, I spent a lot of time in specifying my subject so it is specific for a specific group. I decided to develop a story for students more specifically students which are about to graduate within a year. My story is focusing on the impact a job decision has to use your resources towards achieving 1.5 degrees global warming. 
+The approach included a lot of brainstorming I thought about different directions this project could go into but decided I really wanted to focus on students and create a call to action which has a strong message and is also hopefull.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
