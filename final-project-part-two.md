@@ -40,10 +40,10 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
+|      |Is there anything confusing or unclear about the story?|
+|      |What would motivate you to take actions in the directions of this story?|
+|      |Do you have suggestions for making the story more compelling or relatable?|
+|      |What data visualizations would you look for in this story?|
 
 Text here!
 
@@ -54,9 +54,10 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Is there anything confusing or unclear about the story? | Insightful feedback            |             |             |
+| What would motivate you to take actions in the directions of this story? |                                |             |             |
+| Do you have suggestions for making the story more compelling or relatable? |                                |             |             |
+| What data visualizations would you look for in this story?|  |  |  |  
 
 
 # Identified changes for Part III
@@ -76,10 +77,6 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
