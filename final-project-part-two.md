@@ -48,14 +48,14 @@ Person 3:
 - Work experience with an NGO
 
 
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Person 1 | Person 2 | Person 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Is there anything confusing or unclear about the story? | Insightful feedback            |             |             |
-| What would motivate you to take actions in the directions of this story? |                                |             |             |
-| Do you have suggestions for making the story more compelling or relatable? |                                |             |             |
-| What data visualizations would you look for in this story?|  |  |  |  
+|Is there anything confusing or unclear about the story? |No, it is very clear.| No, it is a really good set up for the story.|Overall it is clear, just one thing I would wish for is that the headers are insightfull enough to understand what it is about without needing to read the paragraph below.|
+|What would motivate you to take actions in the directions of this story? |A list of firms which are doing really well in regards to reducing their Co2 emissions. So it is easy for me to keep an eye out for them, when doing my job search.|I would love to have an interactive section where I can click on buttons and receive more information about specific firms.|It would be great to get access to a website which shows how every company in the U.S. ranks so that I can check the score of a potential future employer.|
+|Do you have suggestions for making the story more compelling or relatable? |Use pictures very intentional some pictures aren't that strong yet.|Use very simple terminologies or explain the terms to make it easily understandable.|Use the colors consistently you are using majorly dark colors at the beginning and more bright colors towards the end of the presentation, but it is not completly consistent yet.|
+| hat data visualizations would you look for in this story?|It would be grat to have a visualisation that compares the best vs. the worst company regarding CO2 emission.|I think it is really important that the charts are simple and clear in its message similar to the charts we saw in the Explained documentaries from Netflix.|Trendlines could be usefull to show some trends also between countries. It might also be interesting to compare how companies are performing regarding their efforts towards reducing emissions and how they communicate it on their websites.|  
 
+I was worried that my story isn't clear or that the topic is not from interest for my target audience. The interviees showed great interest into the topic and shared that the topic is very relatable for them. The feedback I received was majorly in regards to making it more compelling and getting further idear for my designs.I found some commonalities and some differences between the responses of my interviewees.
 
 # Identified changes for Part III
 
@@ -63,12 +63,13 @@ I have identified opportunities for changes to make my final story more compelli
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|Use of colors is inconsistent. | Describe what, if any changes you anticipate making to address the observation.|I have already started working on this but I am planning to spend more time on streamlining the use of color in my story. Going from a more dark color scheme to a brighter color scheme when the story unfolds.
+|Pictures are not used to its full potential to make the story compelling.|Use appropriate pictures to each section in the story. I already made some changes e.g. initially I had a picture of a young girl as the background to the call to action and changed it to a picture that is more specifically showing students which are graduating. More changes are planned. So far I have only used the stock pictures from shorthand, but I want to also make use of the subscription I have with envato, where I have access to more stock pictures.|
+|Create simple and insightfull charts to support the story.|Spend more time on developing good charts either with Tableau or with GenAi depending on how important the interactive part of a chart is. When the interactive part is essential I will use Tableau and if it is less important create graphs with AI tools based on drafted charts in Tableau.|
+|Some kind of ranking of companies in the U.S. would be extremly usefull.|I will do further research on data sources to identify if anything like this exist or if there is a possibility for me to create a ranking based on available data. It does not look too promising yet though. It is much easier to get this information about companies which operate in a countrie that is part of european union as they have much stronger regulations on sustainability reporting when listed on the stock market.|
+|Interactions with the website through buttons.|I will add buttons where appropriate.|
 
+There is still a lot do in regards to the data vizualisation, majorly because I adjusted the focused point of my story only this week. I believe when I incorporate the feedback I will be able to tell a compelling story with a strong call to action. 
 
 ## References
 ClimateWatch, https://www.climatewatchdata.org/, Accessed on 04/02/2025
