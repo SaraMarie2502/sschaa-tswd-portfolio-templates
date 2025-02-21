@@ -3,10 +3,7 @@
 
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
->
-
-I have further developed my project directly in shorthand. As you can see in shorthand my story is much more specific and narrowed down than part 1. I have changed the focus sligthly. While creating the shorthand website I continued to follow my storyline mood chart that we drafted in class going from the Intro part to the current state, opportunities to the solution. The story unfolds as we learned it in class from conflict over context to resolution applying the guideline 6 of the workbook good data viz.
+I have further developed my project directly in shorthand. As you can see in shorthand my story is much more specific and narrowed down than part 1. I have changed the focus sligthly. While creating the shorthand website I continued to follow my storyline mood chart that we drafted in class going from the Intro part to the current state, opportunities to the solution. The story unfolds, as we learned it in class from conflict over context to resolution applying the guideline SIX of the workbook good data viz.
 
 # User research 
 
@@ -23,24 +20,22 @@ e. changes you plan on implementing to your visualizations next week to address 
 When talking about your findings, specific insights and observations, key quotes and other insights are better than broad, sweeping generalizations.  Look across your interviews and note where you have consistent feedback vs. any observations that might be conflicting.  If done well, you should have a clear list of design changes you plan to implement in Part III.  These design changes would reflect things you leaned through the user research process.  Talk about how you plan on using this feedback to improve your project. 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
 Initially I really struggeled to narrow down the subject and focus on just one target audience. Therefore, I spent a lot of time in specifying my subject so it is specific for a specific group. I decided to develop a story for students more specifically students which are about to graduate within a year. My story is focusing on the impact a job decision has to use your resources towards achieving 1.5 degrees global warming. 
 The approach included a lot of brainstorming I thought about different directions this project could go into but decided I really wanted to focus on students and create a call to action which has a strong message and is also hopefull.
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+I used the opportunity to interview people within the telling stories with data class as they are my target audience. Additionally, I interviewed my flatmates which are seniors at CMU, which are planning to enter into the workforce soon.
 
-Text here!
+## Interview script
+
+In the following table I have listed down the questions I planned to ask my interviewees with the corresponding goal. Overall I was trying to develop questions which help me develop a better story and compelling data visualisations. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |Is there anything confusing or unclear about the story?|
-|      |What would motivate you to take actions in the directions of this story?|
-|      |Do you have suggestions for making the story more compelling or relatable?|
-|      |What data visualizations would you look for in this story?|
+|Ensure that the story is clear or if any changes are required. |Is there anything confusing or unclear about the story?|
+|Identify if I can add arguments and charts to convince my target audience. |What would motivate you to take actions in the directions of this story?|
+|Receive more ideas for my story and ensure it is relatable to my target audience.|Do you have suggestions for making the story more compelling or relatable?|
+|Identify what visualizations should be part of my final presentation with shorthand and which one would be a nice addition as context for my github page.|What data visualizations would you look for in this story?|
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
