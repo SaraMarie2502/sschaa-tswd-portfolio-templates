@@ -3,7 +3,9 @@
 
 
 # Wireframes / storyboards
-I have further developed my project directly in shorthand. As you can see in shorthand my story is much more specific and narrowed down than part 1. I have changed the focus sligthly. While creating the shorthand website I continued to follow my storyline mood chart that we drafted in class going from the Intro part to the current state, opportunities to the solution. The story unfolds, as we learned it in class from conflict over context to resolution applying the guideline SIX of the workbook good data viz.
+I have further developed my project directly in shorthand. As you can see in shorthand my story is much more specific and narrowed down than part one. I have changed the focus sligthly. While creating the shorthand website I continued to follow my storyline mood chart that we drafted in class going from the Intro part to the current state, opportunities to the solution. The story unfolds, as we learned it in class from conflict over context to resolution applying the guideline SIX of the workbook good data viz.
+
+The link to shorthand preview: https://preview.shorthand.com/zEBW7PtLeP5rkMEk/responsive/desktop
 
 # User research 
 For my user research I started thinking in more depth about my target audience and from that started developing my interview script and who I want to interview. The interviews were very valuable and I was able to identify opportunities for improvement based on their input.  
@@ -77,7 +79,6 @@ ClimateWatch, https://www.climatewatchdata.org/, Accessed on 04/02/2025
 EDGAR, CO2 emissions of all world countries, 2022, https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table, Accessed on 04/02/2025
 
 OECD, Pine at a glance, 2024, https://oecd-main.shinyapps.io/pinedatabase/, Accessed on 04/02/2025
-
 
 ## AI acknowledgements
 I have not used AI for this part of my final project. I am planning to use GenAi to create some of my vizualizations for my final delivery. 
