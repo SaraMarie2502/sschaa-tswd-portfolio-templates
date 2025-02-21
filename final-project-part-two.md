@@ -38,9 +38,25 @@ In the following table I have listed down the questions I planned to ask my inte
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+#### Interviewed People
+
+Person 1: 
+- Master in in Public and Policy Management
+- End 20's
+- Work experience in research
+  
+Person 2: 
+- Bachelor in Stage Management
+- Beginning 20's
+- Internship experience
+
+Person 3:
+- Master in Public and Policy Management
+- Mid 20's
+- Work experience with an NGO
+
+
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -51,9 +67,8 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+I have identified opportunities for changes to make my final story more compelling. Since we had the chance to receive feedback twice. I was already able to implement some of the feedback I received into my shorthand website. I have made changes to the coloring and the selected pictures. Thee feedback I have not been able to implement yet and plan to do over the next week is regarding data visualisations and adding interactive elements into my website e.g. through providing links to websites with additional information. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -62,10 +77,6 @@ Text here!
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
 
 
 ## References
@@ -77,5 +88,5 @@ OECD, Pine at a glance, 2024, https://oecd-main.shinyapps.io/pinedatabase/, Acce
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I have not used AI for this part of my final project. I am planning to use GenAi to create some of my vizualizations for my final delivery. 
 
