@@ -5,7 +5,7 @@
 # Wireframes / storyboards
 I have further developed my project directly in shorthand. As you can see in shorthand my story is much more specific and narrowed down than part one. I have changed the focus sligthly. While creating the shorthand website I continued to follow my storyline mood chart that we drafted in class going from the Intro part to the current state, opportunities to the solution. The story unfolds, as we learned it in class from conflict over context to resolution applying the guideline SIX of the workbook good data viz.
 
-The link to shorthand preview: [https://preview.shorthand.com/zEBW7PtLeP5rkMEk/responsive/desktop](https://preview.shorthand.com/zEBW7PtLeP5rkMEk)
+The link to shorthand preview: [https://preview.shorthand.com/zEBW7PtLeP5rkMEk](https://preview.shorthand.com/zEBW7PtLeP5rkMEk)
 
 # User research 
 For my user research I started thinking in more depth about my target audience and from that started developing my interview script and who I want to interview. The interviews were very valuable and I was able to identify opportunities for improvement based on their input.  
