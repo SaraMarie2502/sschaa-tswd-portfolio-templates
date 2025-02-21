@@ -69,7 +69,12 @@ Text here!
 
 
 ## References
-_List any references you used here._
+ClimateWatch, https://www.climatewatchdata.org/, Accessed on 04/02/2025
+
+EDGAR, CO2 emissions of all world countries, 2022, https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table, Accessed on 04/02/2025
+
+OECD, Pine at a glance, 2024, https://oecd-main.shinyapps.io/pinedatabase/, Accessed on 04/02/2025
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
