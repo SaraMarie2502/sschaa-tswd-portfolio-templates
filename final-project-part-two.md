@@ -13,8 +13,9 @@ Initially I really struggeled to narrow down the subject and focus on just one t
 The approach included a lot of brainstorming I thought about different directions this project could go into but decided I really wanted to focus on students and create a call to action which has a strong message and is also hopefull.
 
 ### User persona
+<img src="userpersona.png" width="600"/>
 
-
+### Identify representatives of the target audience
 I used the opportunity to interview people within the telling stories with data class, as they are my target audience. Additionally, I interviewed my flatmates which are seniors at CMU. They are planning to enter into the workforce soon.
 
 ## Interview script
