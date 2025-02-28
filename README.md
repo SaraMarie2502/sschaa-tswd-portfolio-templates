@@ -7,7 +7,7 @@ Web URL:
 - This repository:  [https://github.com/SaraMarie2502/sschaa-tswd-portfolio-templates](https://github.com/SaraMarie2502/sschaa-tswd-portfolio-templates)
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. You can navigate through the different subpages through the header at the top. The content on this website was either developed for practice tasks or for work towards the final project of the telling stories with data class.
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. You can navigate through the different subpages through the header at the top. The content on this website was either developed for practice tasks or for work towards the final project of the Telling Stories with Data class.
 
 # About me
 Hi! I am Sara an exchange student at Carnegie Mellon University at Heinz College studying Management and Informationsystems. I am pursuing a Masters in Management at the University of Mannheim in Germany. I really like data. I am fascinated by the opportunities data provides us with to learn and optimize. I like visualizations, they are a tool to make data usable for a greater audience.  So I guess you can say that I like data visualizations!
