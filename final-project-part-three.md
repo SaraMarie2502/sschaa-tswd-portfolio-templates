@@ -3,7 +3,7 @@
 
 
 # The final data story
-I have created my data story with shorthand. The website can be accessed here: [[https://carnegiemellon.shorthandstories.com/climate-change-employer-choice/index.html](https://carnegiemellon.shorthandstories.com/climate-change-employer-choice/index.html).
+I have created my data story with shorthand. The website can be accessed here: [https://carnegiemellon.shorthandstories.com/climate-change-employer-choice/index.html](https://carnegiemellon.shorthandstories.com/climate-change-employer-choice/index.html).
 
 ## Changes made since Part II
 I have made a lot of changes since part II. For example certain sections were left out as they were too far away from the key story. I also adjust the color scheme and worked with simple charts. I incorporated buttons to link to websites to get more information to make the website more interactive as suggested based on the feedback I received through the interviews. Overall in this phase I have really filled the shorthand website with content. In part II my shorthand website was only a sketch/wireframe which showed the color scheme and the structure of my story but the vizualizations were not yet incorporated. 
