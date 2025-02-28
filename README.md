@@ -3,8 +3,8 @@
 # Sara's TSWD-portfolio
 Web URL: 
 
-- Web page URL:  [https://saramarie2502.github.io/sschaa-tswd-portfolio-templates/] (https://saramarie2502.github.io/sschaa-tswd-portfolio-templates/)
-- This repository:  [https://github.com/SaraMarie2502/sschaa-tswd-portfolio-templates] (https://github.com/SaraMarie2502/sschaa-tswd-portfolio-templates)
+- Web page URL:  [https://saramarie2502.github.io/sschaa-tswd-portfolio-templates/](https://saramarie2502.github.io/sschaa-tswd-portfolio-templates/)
+- This repository:  [https://github.com/SaraMarie2502/sschaa-tswd-portfolio-templates](https://github.com/SaraMarie2502/sschaa-tswd-portfolio-templates)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
