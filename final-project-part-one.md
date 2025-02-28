@@ -72,17 +72,17 @@ Those datasets are valuable but they cannot be directly imported to Tableau as t
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Climate watch data | https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=climate-watch&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=&page=1 |"Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress" (ClimateWatch, Accessed 03/02/2025)|
-|OECD | https://oecd-main.shinyapps.io/pinedatabase/ | It is a data dissemination platform of the OECD Policy Instruments for the Environment (PINE) database (OECD, Accessed 03/02/2022)|
-|EDGAR - Emissions Database for Global Atmospheric Research | https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table | "EDGARv7.0 launches the community GHG emissions database, changing to IEA CO2 data to harmonise CO2 emission estimates and beginning a process of recognising the essential role of the providers of the underlying international statistics to EDGAR." (EDGAR, Accessed 03/02/2025)             |
+|Climate watch data | [https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=climate-watch&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=&page=1](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=climate-watch&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=&page=1) |"Climate Watch offers open data, visualizations and analysis to help policymakers, researchers and other stakeholders gather insights on countries' climate progress" (ClimateWatch, Accessed 03/02/2025)|
+|OECD | [https://oecd-main.shinyapps.io/pinedatabase/](https://oecd-main.shinyapps.io/pinedatabase/) | It is a data dissemination platform of the OECD Policy Instruments for the Environment (PINE) database (OECD, Accessed 03/02/2022)|
+|EDGAR - Emissions Database for Global Atmospheric Research | [https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table](https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table) | "EDGARv7.0 launches the community GHG emissions database, changing to IEA CO2 data to harmonise CO2 emission estimates and beginning a process of recognising the essential role of the providers of the underlying international statistics to EDGAR." (EDGAR, Accessed 03/02/2025)             |
 
 # Method and medium
 
 I am planning to utilize shorthand and Tableau Desktop, as well as Tableau Prep. Additionally I will reformat the CSV file with Python scripts if necessary. Since I have not worked with ArcGIS story maps, I will not use it. Additionally I would like to use stock pictures from my envato account. It is a subscription based platform through which I can download pictures which I can license for projects.
 
 ## References
-ClimateWatch, https://www.climatewatchdata.org/, Accessed on 04/02/2025
+ClimateWatch, [https://www.climatewatchdata.org/](https://www.climatewatchdata.org/), Accessed on 04/02/2025
 
-EDGAR, CO2 emissions of all world countries, 2022, https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table, Accessed on 04/02/2025
+EDGAR, CO2 emissions of all world countries, 2022, [https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table](https://edgar.jrc.ec.europa.eu/report_2022?vis=pop#emissions_table), Accessed on 04/02/2025
 
-OECD, Pine at a glance, 2024, https://oecd-main.shinyapps.io/pinedatabase/, Accessed on 04/02/2025
+OECD, Pine at a glance, 2024, [https://oecd-main.shinyapps.io/pinedatabase/](https://oecd-main.shinyapps.io/pinedatabase/), Accessed on 04/02/2025
