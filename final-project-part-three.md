@@ -5,7 +5,7 @@
 # The final data story
 
 
-# Changes made since Part II
+## Changes made since Part II
 I have made a lot of changes since part II. For example certain sections were left out as they were too far away from the key story. I also adjust the color scheme and worked with simple charts. I incorporated buttons to link to websites to get more information to make the website more interactive as suggested based on the feedback I received through the interviews. Overall in this phase I have really filled the shorthand website with content. In part II my shorthand website was only a sketch/wireframe which showed the color scheme and the structure of my story but the vizualizations were not yet incorporated. 
 
 Additionally I have incorporated the feedback received from part two from my professor: to incorporate a section which shows how I have made my previous career choices, to adjust the color coding of the bubble chart to set a better focus and to remove the legend of that chart.
@@ -14,7 +14,7 @@ Additionally I have incorporated the feedback received from part two from my pro
 The most important work regarding identifying and building the story for my target audience was performed in part II. Since then the user persona and interviews have helped me. Since I got confirmation from the interviewees that the story is interesting for them, i didn't adapt much more of the story telling aspect.
 
 
-Initially I really struggeled to narrow down the subject and focus on just one target audience. Therefore, I spent a lot of time in specifying my subject so it is specific for a specific group. I decided to develop a story for students more specifically students which are about to graduate within a year. My story is focusing on the impact a job decision has to use your resources towards achieving 1.5 degrees global warming. 
+Initially I really struggeled to narrow down the subject and focus on just one target audience. Therefore, I spent a lot of time in specifying my subject so it is targeted towards the audience. I decided to develop a story for students, more specifically students which are about to graduate within a year. My story is focusing on the impact a job decision has to use your resources towards achieving 1.5 degrees global warming. 
 My approach included a lot of brainstorming, I thought about different directions this project could go into but decided I really wanted to focus on students and create a call to action which has a strong message and is also hopefull.
 
 The development of my user persona has helped me to further narrow down my story and keep it aligned to the actual target audience and not digress from the main story.
