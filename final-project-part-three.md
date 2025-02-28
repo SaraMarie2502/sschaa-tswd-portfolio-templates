@@ -3,16 +3,12 @@
 
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
 
 # Changes made since Part II
 I have made a lot of changes since part II. For example certain sections were left out as they were too far away from the key story. I also adjust the color scheme and worked with simple charts. I incorporated buttons to link to websites to get more information to make the website more interactive as suggested based on the feedback I received through the interviews. Overall in this phase I have really filled the shorthand website with content. In part II my shorthand website was only a sketch/wireframe which showed the color scheme  and the structure of my story but the vizualizations were not yet incorporated. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
 The most important work regarding identifying and building the story for my target audience was performed in part II. Since then the user persona and interviews have helped me. Since I got confirmation from the interviewees that the story is interesting for them, i didn't adapt much more of the story telling aspect.
 
 
@@ -21,6 +17,7 @@ My approach included a lot of brainstorming, I thought about different direction
 
 The development of my user persona has helped me to further narrow down my story and keep it aligned to the actual target audience and not digress from the main story.
 
+<img src="userpersona.png" width="600"/>
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
@@ -37,7 +34,6 @@ I have created one chart with AI which I have highlighted on shorthand. I also a
 
 
 # Final thoughts
-
 There is so much more data available and with more time the story could have been a little smoothers. The feedback I received was very valuable, but I believe even more feedback rounds would have made it even better.
 
 
