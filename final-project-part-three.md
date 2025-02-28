@@ -6,7 +6,9 @@
 
 
 # Changes made since Part II
-I have made a lot of changes since part II. For example certain sections were left out as they were too far away from the key story. I also adjust the color scheme and worked with simple charts. I incorporated buttons to link to websites to get more information to make the website more interactive as suggested based on the feedback I received through the interviews. Overall in this phase I have really filled the shorthand website with content. In part II my shorthand website was only a sketch/wireframe which showed the color scheme  and the structure of my story but the vizualizations were not yet incorporated. 
+I have made a lot of changes since part II. For example certain sections were left out as they were too far away from the key story. I also adjust the color scheme and worked with simple charts. I incorporated buttons to link to websites to get more information to make the website more interactive as suggested based on the feedback I received through the interviews. Overall in this phase I have really filled the shorthand website with content. In part II my shorthand website was only a sketch/wireframe which showed the color scheme and the structure of my story but the vizualizations were not yet incorporated. 
+
+Additionally I have incorporated the feedback received from part two from my professor: to incorporate a section which shows how I have made my previous career choices, to adjust the color coding of the bubble chart to set a better focus and to remove the legend of that chart.
 
 ## The audience
 The most important work regarding identifying and building the story for my target audience was performed in part II. Since then the user persona and interviews have helped me. Since I got confirmation from the interviewees that the story is interesting for them, i didn't adapt much more of the story telling aspect.
