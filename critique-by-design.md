@@ -11,7 +11,7 @@ The specific chart was chosen because it was interesting data but not perfectly 
 
 <img src="DataVizCritique.png" width="600"/>
 
-Source: Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statistics (2024 Updated), https://insideoutmastery.com/new-years-resolution-statistics/ , Accessed on 10/02/2025
+Source: Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statistics (2024 Updated),  [https://insideoutmastery.com/new-years-resolution-statistics/](https://insideoutmastery.com/new-years-resolution-statistics/) , Accessed on 10/02/2025
 
 ## Step two: the critique
 ### Positive Aspects of the Graph
@@ -106,9 +106,9 @@ Source: YouGov Survey Results, 2024, https://ygo-assets-websites-editorial-emea.
 
 ## References
 
-Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statistics (2024 Updated), https://insideoutmastery.com/new-years-resolution-statistics/ , Accessed on 10/02/2025
+Inside Out Mastery, 2022, 19 Surprising New Year’s Resolution Statistics (2024 Updated), [https://insideoutmastery.com/new-years-resolution-statistics/](https://insideoutmastery.com/new-years-resolution-statistics/), Accessed on 10/02/2025
 
-YouGov Survey Results, 2024, https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_-_New_Years_resolutions_2024.pdf , Accessed on 10/02/2025
+YouGov Survey Results, 2024, [https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_-_New_Years_resolutions_2024.pdf](https://ygo-assets-websites-editorial-emea.yougov.net/documents/YouGov_-_New_Years_resolutions_2024.pdf), Accessed on 10/02/2025
 
 ## AI acknowledgements
 
